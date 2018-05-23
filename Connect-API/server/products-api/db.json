@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone 6 plus",
+      "price": "400",
+      "status": false
+    },
+    {
+      "name": "Samsung Galaxy S7",
+      "price": "400",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "Iphone X",
+      "price": "1500",
+      "status": false,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Ipad Air",
+      "price": "850",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "LG-1",
+      "price": "700",
+      "status": false
+    }
+  ]
+}

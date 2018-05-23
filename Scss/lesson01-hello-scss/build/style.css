@@ -1,0 +1,10 @@
+.container p {
+  background-color: red;
+  padding: 10;
+  color: white;
+}
+.container p a {
+  color: yellow;
+}
+
+/*# sourceMappingURL=build/style.css.map */
